@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32">
+  <rect width="32" height="32" fill="#000000"/>
+  <!-- Knife (diagonal from top-left to bottom-right, blade facing left) -->
+  <path d="M 5 3 L 19 19 L 17 21 L 3 5 Z" fill="#00FFFF"/>
+  <rect x="3" y="5" width="2" height="14" fill="#00FFFF"/>
+  <!-- Spoon (diagonal from top-right to bottom-left) -->
+  <path d="M 27 3 L 13 19 L 15 21 L 29 5 Z" fill="#00FFFF"/>
+  <ellipse cx="19" cy="17" rx="4" ry="3" fill="#00FFFF"/>
+</svg>
+
