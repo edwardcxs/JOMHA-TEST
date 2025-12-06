@@ -13,7 +13,7 @@ const teamMembers = [
   { name: "Edward Kindo", role: "Technical Expert", image: "/images/team/edward-kindo.jpeg" },
   { name: "Atish Niketan", role: "Asst. Technical Expert", image: "/images/team/atish niketan.jpeg" },
   { name: "Gautam Haldar", role: "Printing Partner", image: "/images/team/memoji.jpeg" },
-  { name: "Hemant Gagrai", role: "Mixologist", image: "/images/team/hemant-gagrai.jpg" },
+  { name: "Hemant Gagrai", role: "Finance Advisor", image: "/images/team/hemant-gagrai.jpg" },
   { name: "Sikandar Samad", role: "Senior Server", image: "/images/team/memoji.jpeg" },
   
   // Row 2
