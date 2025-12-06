@@ -7,7 +7,7 @@ const teamMembers = [
   // Row 1
   { name: "Lalita Samad", role: "Founder", image: "/images/team/lalita samad.jpeg" },
   { name: "Reeta Samad", role: "Co-Founder", image: "/images/team/reeta-samad.jpg" },
-  { name: "Krishna Jha", role: "Chief Executive Officer", image: "/images/team/memoji.jpeg" },
+  { name: "Krishna Jha", role: "Chief Executive", image: "/images/team/memoji.jpeg" },
   { name: "Dinabandhu Soren", role: "Tribal Art Designer", image: "/images/team/memoji.jpeg" },
   { name: "Dr.Patrick Chabu", role: "Marketing Advisor", image: "/images/team/pat.jpeg" },
   { name: "Edward Kindo", role: "Technical Expert", image: "/images/team/edward-kindo.jpeg" },
