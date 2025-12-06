@@ -5,7 +5,7 @@ import { ScrollReveal } from './ScrollReveal';
 const honoredGuests = [
   {
     name: "Jual Oram",
-    designation: "Minister of Tribal Affairs",
+    designation: "Minister of Tribal Affairs, Govt. Of India",
     image: "/images/guest/jual.jpg",
     text: "I spent some time at Jomha and tried their food, and it honestly made me so happy to see people in today’s modern era still carrying our culture with pride. The way they promote authentic tribal food-so healthy and rooted-is truly admirable, and I genuinely appreciate it."
   },
@@ -13,7 +13,7 @@ const honoredGuests = [
     name: "Dashrath Gagrai",
     designation: "MLA of Saraikela, Kharsawa, Jharkhand ",
     image: "/images/guest/das.jpg",
-    text: "I visited Jomha Restaurant, and the food and atmosphere instantly reminded me of my village. The flavors truly matched the authentic taste of our tribal dishes, something you rarely find in restaurants. Seeing this made me genuinely happy, and my happiness is completely justified."
+    text: "I visited Jomha Restaurant, and the food and atmosphere instantly reminded me of my village. The flavours truly matched the authentic taste of our tribal dishes, something you rarely find in restaurants. Seeing this made me genuinely happy, and my happiness is completely justified."
   }
 ];
 
